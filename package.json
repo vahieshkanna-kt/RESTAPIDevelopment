@@ -1,0 +1,15 @@
+{
+  "name": "student-management-api",
+  "version": "1.0.0",
+  "description": "Beginner-friendly REST API using Node.js and Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["rest-api", "express", "students", "crud"],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
